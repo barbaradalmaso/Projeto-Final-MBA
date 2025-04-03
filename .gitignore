@@ -1,0 +1,8 @@
+
+*.h5ad
+*.csv
+*.gz
+*.tsv
+/Dados/GSE221042_RAW
+/Dados
+*.docx
