@@ -16,16 +16,16 @@ O artigo está disponível em: https://www.nature.com/articles/s41467-023-37025-
 # 📊 Metodologia  
 As seguintes abordagens foram aplicadas:  
 
-🎯 1️. **Redução de Dimensionalidade:**  
+1️ **Redução de Dimensionalidade:**  
    - **PCA** (Análise de Componentes Principais)  
    - **t-SNE** e **UMAP** (para preservar relações locais e globais)  
 
-🎯 2. **Clusterização Não Supervisionada:**  
+2 **Clusterização Não Supervisionada:**  
    - **K-Means**  
    - **Gaussian Mixture Model (GMM)**  
    - **Leiden**  
 
-🎯 3. **Classificação Supervisionada:**  
+3 **Classificação Supervisionada:**  
    - **Random Forest**  
    - **XGBoost**  
    - **LightGBM**  
