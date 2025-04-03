@@ -11,7 +11,7 @@ As seguintes abordagens foram aplicadas:
 
  1. **Redução de Dimensionalidade:**  
    - **PCA** (Análise de Componentes Principais)  
-   - **t-SNE** (“t-Distributed Stochastic Neighbor Embedding”) e **UMAP** (Uniform Manifold Approximation and Projection)
+   - **t-SNE** (t-Distributed Stochastic Neighbor Embedding) e **UMAP** (Uniform Manifold Approximation and Projection)
 
  2. **Clusterização Não Supervisionada:**  
    - **K-Means**  
