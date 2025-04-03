@@ -16,7 +16,7 @@ As seguintes abordagens foram aplicadas:
 
  2. **Clusterização Não Supervisionada:**  
    - **K-Means**  
-   - **Gaussian Mixture Model (GMM)**  
+   - **GMM** (Gaussian Mixture Model) 
    - **Leiden**  
 
  3. **Classificação Supervisionada:**  
