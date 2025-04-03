@@ -1,10 +1,3 @@
----
-title: "Análise de scRNA-seq e Machine Learning para Classificação de AMD"
-author: "Barbara Dalmaso"
-date: "`r Sys.Date()`"
-output: github_document
----
-
 # 📌 Visão Geral  
 Este repositório contém análises de **single-cell RNA sequencing (scRNA-seq)** aplicadas ao estudo da **Degeneração Macular Relacionada à Idade (AMD)**.  
 Foram utilizadas técnicas de **redução de dimensionalidade**, **clusterização** e **aprendizado de máquina supervisionado** para explorar padrões biológicos e classificar as células nos diferentes estados fisiológicos e patológicos.  
